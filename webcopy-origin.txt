@@ -1,0 +1,52 @@
+Uri: https://cdn.tailwindcss.com/3.2.4
+File Name: C:\Downloaded Web Sites\gtamonsters.com\3.2.4
+Content Type: text/javascript
+
+Uri: https://gtamonsters.com/
+File Name: C:\Downloaded Web Sites\gtamonsters.com\index.htm
+Content Type: text/html
+
+Uri: https://gtamonsters.com/img/discord-logo-white.png
+File Name: C:\Downloaded Web Sites\gtamonsters.com\img\discord-logo-white.png
+Content Type: image/png
+
+Uri: https://gtamonsters.com/img/epic-games.png
+File Name: C:\Downloaded Web Sites\gtamonsters.com\img\epic-games.png
+Content Type: image/png
+
+Uri: https://gtamonsters.com/img/gtagoods-logo.png
+File Name: C:\Downloaded Web Sites\gtamonsters.com\img\gtagoods-logo.png
+Content Type: image/png
+
+Uri: https://gtamonsters.com/img/logo.png
+File Name: C:\Downloaded Web Sites\gtamonsters.com\img\logo.png
+Content Type: image/png
+
+Uri: https://gtamonsters.com/img/mem_godzilla.png
+File Name: C:\Downloaded Web Sites\gtamonsters.com\img\mem_godzilla.png
+Content Type: image/png
+
+Uri: https://gtamonsters.com/img/mem_zilla.png
+File Name: C:\Downloaded Web Sites\gtamonsters.com\img\mem_zilla.png
+Content Type: image/png
+
+Uri: https://gtamonsters.com/img/menu.png
+File Name: C:\Downloaded Web Sites\gtamonsters.com\img\menu.png
+Content Type: image/png
+
+Uri: https://gtamonsters.com/img/rockstar.png
+File Name: C:\Downloaded Web Sites\gtamonsters.com\img\rockstar.png
+Content Type: image/png
+
+Uri: https://gtamonsters.com/img/sellix-logo.png
+File Name: C:\Downloaded Web Sites\gtamonsters.com\img\sellix-logo.png
+Content Type: image/png
+
+Uri: https://gtamonsters.com/img/steam.png
+File Name: C:\Downloaded Web Sites\gtamonsters.com\img\steam.png
+Content Type: image/png
+
+Uri: https://gtamonsters.com/snow.css
+File Name: C:\Downloaded Web Sites\gtamonsters.com\snow.css
+Content Type: text/css
+
